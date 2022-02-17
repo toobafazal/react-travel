@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.explore{
+  color: #202336;
+  font-size: 64px;
+  font-family: Playfair Display;
+  font-style: normal;
+}
+.holiday{
+  font-size: 22px;
+  font-style: normal;
+  font-family: Inter;
+
+}
+.bigimg{
+  width: 687px;
+  height: 654px;
+}
+.explorebtn{
+  background: #FB8F1D !important;
+  border-radius: 8px !important;
+  color: #fff !important;
+  height: 52px;
+  width: 180px;
+}
+.navbtn{
+  color: #FB8F1D !important;
+  border-radius: 8px !important;
+  width:132px;
+}
+.navbtn:hover{
+  background: #FB8F1D !important;
+  color: #fff !important;
+}
+.aboutimg{
+  height: 534px !important;
+  width: 559px !important;
+}
+.cardimg{
+border-radius: 16px !important;
+
+}
+.Card{
+  border:none !important;
+}
+.Card h4{
+  font-size:19px !important;
+}
+.imgtext{
+  border-radius: 0px 6px 0px 0px  !important;
+  background: #FFFFFF !important;
+  transform: translateY(-90%);
+  width: 110px;
+}
+.logo{
+transform: translateX(-137%) !important;
+}
+.hr{
+  border-bottom:5px solid #202336 !important;
+width: 30px !important;
+}
